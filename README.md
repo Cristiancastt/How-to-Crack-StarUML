@@ -1,4 +1,4 @@
-# How to Crack StarUML
+# Como Crackear StarUML
 # 1º Descarga StarUML:
 [StarUML Download](https://staruml.io/download)
 
