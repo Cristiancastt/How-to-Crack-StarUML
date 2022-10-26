@@ -84,7 +84,7 @@ handleMessages () {
   }
 ```
 
-Una vez modificados y guardados los archivos,le cambiamos el nombre por ejemplo:**_"appOld.asar"_** o eliminamos el archivo original:**_app.asar_** y nos pasamos al terminal que teniamos abierto y ejecutamos el comando:
+Una vez modificados y guardados los archivos,le cambiamos el nombre por ejemplo:**_"appOld.asar"_** o eliminamos el archivo original: **_app.asar_** y nos pasamos al terminal que teniamos abierto y ejecutamos el comando:
 
 ``
 asar pack app app.asar
