@@ -90,7 +90,7 @@ Una vez modificados y guardados los archivos,le cambiamos el nombre por ejemplo:
 asar pack app app.asar
 ``
 
-Una vez comprimido ya tendremos StarUML activado y con las actualzaciones bloqueadas.
+Una vez comprimido ya tendremos StarUML activado y con las actualzaciones bloqueadas, recuerda que los directorios y el terminal son de Windows, si usas otro Sistema Operativo, revisa los directorios y escritura en el terminal.
 
 ## Si quieres descargar directamente el app.asar para StarUML v5.0.2:
 [Google Drive Download](https://drive.google.com/file/d/1Z_6YEJxiSgt0pakb40Gi25FgHPnrJBOg/view?usp=sharing)
