@@ -36,7 +36,7 @@ C:\Program Files\StarUML\resources\app\src\engine
 En esta carpeta abrimos el archivo: **_license-manager.js_** con cualquier editor de codigo que admita JavaScript
 Y buscamos la función **_checkListValidity ()_**, y cambiamos el status de false a true, y el registerLog lo ponemos como comentario, asi quedaria:
 
-```
+```JavaScript
 checkLicenseValidity () {
     if (packageJSON.config.setappBuild) {
       setStatus(this, true)
@@ -56,7 +56,7 @@ Una vez modificado guardamos el archivo y pasamos a otro archivo.
 Ahora desactivaremos las actualizaciones, en la misma carpeta abrimos el archivo: **_update_manager.js_**
 Buscamos la funcion: **_handleMessages ()_**, y ponemos como comentario todas las lineas: **_"this."_**, y asi quedaria:
 
-```
+```JavaScript
 handleMessages () {
     ipcRenderer.on('autoUpdater:update-available', (event, info) => {
       //this.state = 'available'
