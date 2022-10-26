@@ -92,3 +92,12 @@ asar pack app app.asar
 
 Una vez comprimido ya tendremos StarUML activado y con las actualzaciones bloqueadas.
 
+## Si quieres descargar directamente el app.asar para StarUML v5.0.2:
+[Google Drive Download](https://drive.google.com/file/d/1Z_6YEJxiSgt0pakb40Gi25FgHPnrJBOg/view?usp=sharing)
+
+[MEGA Download](https://mega.nz/file/FT1Q3aiI#BeKiBDEsiN0R2wBNeHSFCOs8LLKiYMEAHnJZhGP2diI)
+
+[MediaFire Download](https://www.mediafire.com/file/xm0oq9zve64l4sj/app.asar/file)
+
+[anonfiles Download](https://anonfiles.com/79A977E9y4/app_asar)
+
