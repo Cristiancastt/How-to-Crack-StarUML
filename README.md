@@ -1,18 +1,18 @@
 # Como Crackear StarUML
-# 1º Descarga StarUML:
+## 1º Descarga StarUML:
 [StarUML Download](https://staruml.io/download)
 
-# 2º Descargar NodeJs:
+## 2º Descargar NodeJs:
 [NodeJs Download](https://nodejs.org/en/download/)
 
-# 3º Instalar Asar:
+## 3º Instalar Asar:
 Abres un terminal e introduces este codigo:
 
 ``
 nmp install asar -g
 ``
 
-# 4º Una vez instalado StarUML:
+## 4º Una vez instalado StarUML:
 Seleccionamos el icono del escritorio con click derecho y le damos a: **_Abrir la ubicación del archivo_**
 Si no hemos cambiado la ruta de instalación antes deberia ser esta: 
 
