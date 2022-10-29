@@ -23,7 +23,7 @@ C:\Program Files\StarUML
 Si es asi abrimos una terminal en modo administrador y ejecutamos los siguientes codigos:
 
 ``
-cd C:\Program Files\StarUML\resources asar extraxt app.asar app
+cd C:\Program Files\StarUML\resources asar extract app.asar app
 ``
 
 Este codigo descomprimira el archivo **_app.asar_** en una carpeta en el mismo repositorio que se llamara app no cierres el terminal todavia dejalo en 2º plano.
